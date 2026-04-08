@@ -1,0 +1,11 @@
+{
+  "name": "node-html-docker",
+  "version": "1.0.0",
+  "description": "Node HTML Docker Jenkins App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "student",
+  "license": "ISC"
+}

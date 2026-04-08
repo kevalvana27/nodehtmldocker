@@ -5,7 +5,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/kunal22823/NodeHtmlDocker.git'
+                git 'https://github.com/kevalvana27/nodehtmldocker.git'
             }
         }
 
